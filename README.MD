@@ -8,9 +8,9 @@ GoFinances é uma aplicação de gestão de transações, consumindo a Api do ba
 <h1>Funcionalidades</h1>
 <ul>
   <li>Listar as transações, junto de suas informações.</li>
+  <li>Criar novas transações.</li>
   <li>Importar um arquivo CSV para criar novas transações.</li>
-  <li>Adicionei um botão que abre um modal para criar uma nova transação.</li>
-  <li>Adicionei um botão para deletar um transação.</li>
+  <li>Deletar uma transação.</li>
 </ul>
 
 ## 📷 Screenshot:
